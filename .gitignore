@@ -8,7 +8,7 @@ dist/
 # Variables de entorno
 .env
 .env.*
-!.env.example
+!.env.template
 
 # Logs
 npm-debug.log*
